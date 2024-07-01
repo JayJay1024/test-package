@@ -15,5 +15,8 @@
     "url": "https://github.com/JayJay1024/test-package/issues"
   },
   "homepage": "https://github.com/JayJay1024/test-package#readme",
-  "description": ""
+  "description": "",
+  "publishConfig": {
+    "@jayjay1024:registry": "https://npm.pkg.github.com"
+  }
 }
