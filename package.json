@@ -1,0 +1,19 @@
+{
+  "name": "@jayjay1024/test-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JayJay1024/test-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayJay1024/test-package/issues"
+  },
+  "homepage": "https://github.com/JayJay1024/test-package#readme",
+  "description": ""
+}
